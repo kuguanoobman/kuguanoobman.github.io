@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>键盘快捷键</title>
+      <link href="/2023/01/25/%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+      <url>/2023/01/25/%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="常用快捷键-fn为自定义键"><a href="#常用快捷键-fn为自定义键" class="headerlink" title="常用快捷键(fn为自定义键)"></a>常用快捷键(fn为自定义键)</h1><h2 id="HOME（FN-Q）"><a href="#HOME（FN-Q）" class="headerlink" title="HOME（FN+Q）"></a>HOME（FN+Q）</h2><p>光标移动到这一行的最前面</p><h3 id="SHIFT-HOME"><a href="#SHIFT-HOME" class="headerlink" title="SHIFT+HOME"></a>SHIFT+HOME</h3><p>选中从光标到这一行的最前面</p><h2 id="END（FN-W）"><a href="#END（FN-W）" class="headerlink" title="END（FN+W）"></a>END（FN+W）</h2><p>光标移动到这一行的最后面</p><h3 id="SHIFT-END"><a href="#SHIFT-END" class="headerlink" title="SHIFT+END"></a>SHIFT+END</h3><p>选中从光标到这一行的最后面</p><h2 id="PGUP（FN-E）"><a href="#PGUP（FN-E）" class="headerlink" title="PGUP（FN+E）"></a>PGUP（FN+E）</h2><p>基础功能：向上翻页</p><h2 id="PGDN（FN-R）"><a href="#PGDN（FN-R）" class="headerlink" title="PGDN（FN+R）"></a>PGDN（FN+R）</h2><p>基础功能：向下翻页</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 自定义 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/01/25/hello-world/"/>
+      <url>/2023/01/25/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎来到 <a href="https://hexo.io/">Hexo</a>! 这是你的第一个博客。 获得更多信息请查看 <a href="https://hexo.io/docs/">文档</a>。 如果你在使用Hexo遇到了问题, 你可以在<a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a>上找到答案，或者在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a>上询问我。</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一个新的博客"><a href="#创建一个新的博客" class="headerlink" title="创建一个新的博客"></a>创建一个新的博客</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="运行服务"><a href="#运行服务" class="headerlink" title="运行服务"></a>运行服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
