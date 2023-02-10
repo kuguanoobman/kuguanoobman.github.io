@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>关闭笔记本自带键盘</title>
+      <link href="/2023/02/10/%E5%85%B3%E9%97%AD%E7%AC%94%E8%AE%B0%E6%9C%AC%E8%87%AA%E5%B8%A6%E9%94%AE%E7%9B%98/"/>
+      <url>/2023/02/10/%E5%85%B3%E9%97%AD%E7%AC%94%E8%AE%B0%E6%9C%AC%E8%87%AA%E5%B8%A6%E9%94%AE%E7%9B%98/</url>
+      
+        <content type="html"><![CDATA[<h1 id="新建一个文本，并将后缀名改为-bat"><a href="#新建一个文本，并将后缀名改为-bat" class="headerlink" title="新建一个文本，并将后缀名改为.bat"></a>新建一个文本，并将后缀名改为.bat</h1><p>禁用笔记本键盘</p><figure class="highlight bat"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sc config i8042prt <span class="built_in">start</span>= disabled</span><br></pre></td></tr></table></figure><p>打开笔记本键盘</p><figure class="highlight bat"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sc config i8042prt <span class="built_in">start</span>= auto</span><br></pre></td></tr></table></figure><p>管理员打开，并重启即可</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 小技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> —小技巧 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>插入图片测试</title>
       <link href="/2023/01/26/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
       <url>/2023/01/26/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</url>
@@ -38,16 +63,16 @@
       
       <categories>
           
-          <category> 生活 </category>
+          <category> 小技巧 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 生活 </tag>
+            <tag> 测试 </tag>
             
-            <tag> 自定义 </tag>
+            <tag> 小技巧 </tag>
             
         </tags>
       
